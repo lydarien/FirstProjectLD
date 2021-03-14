@@ -1,2 +1,4 @@
 # FirstProjectLD
-Just another repository
+Hi, Lydarien
+
+I'm writing this to myself because I'm great!
